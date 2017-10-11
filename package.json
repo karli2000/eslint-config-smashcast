@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-smashcast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint Rules for Smashcast projects",
   "repository": "smashcast/eslint-config-smashcast",
   "license": "MIT",
