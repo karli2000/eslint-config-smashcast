@@ -2,17 +2,15 @@
   "name": "eslint-config-smashcast",
   "version": "1.0.0",
   "description": "Eslint Rules for Smashcast projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/smashcast/eslint-config-smashcast.git"
-  },
-  "author": "",
+  "repository": "smashcast/eslint-config-smashcast",
   "license": "MIT",
-  "dependencies": {
+  "bugs": {
+    "url": "https://github.com/smashcast/eslint-config-smashcast/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.1",
