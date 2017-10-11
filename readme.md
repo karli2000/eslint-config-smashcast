@@ -3,7 +3,8 @@
 ## Usage
 
 ```sh
-$ npm i -D eslint eslint-config-smashcast
+$ npm i -D eslint-config-smashcast babel-eslint@^7.2.3 eslint@^4.1.1 eslint-config-airbnb@^15.0.1 eslint-plugin-import@^2.6.1 eslint-plugin-jsx-a11y@^5.0.1 eslint-plugin-react@^7.1.0
+
 ```
 
 Then add it to your .eslintrc
