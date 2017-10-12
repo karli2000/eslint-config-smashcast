@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-smashcast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint Rules for Smashcast projects",
   "repository": "smashcast/eslint-config-smashcast",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "files": [
     "index.js"
   ],
-  "peerDependencies": {
+  "dependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.1.1",
     "eslint-config-airbnb": "^15.0.1",
